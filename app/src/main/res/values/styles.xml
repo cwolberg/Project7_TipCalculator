@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" windowBackground ="background"
+        textColorPrimary="white" textColorSecondary="white"/>
+
+    <style name="PaddedWidget" padding="10dp" />
+
+    <style name="SpinnerItemStyle" parent="Widget.TextView.SpinnerItem" textsize="24sp" />
+
+    <style name="DropDownItemStyle" parent="Widget.DropDownItem" textsize="24sp" />
+
+
+</resources>
